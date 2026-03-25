@@ -7,7 +7,7 @@
 <div align="center">
 
 ### 📖 Check out my latest article
-**[→ Your Article Title Here ←](https://YOUR_ARTICLE_LINK_HERE)**
+**[→ Hyderabad Urban Mobility - Data Report ←](https://amanetize.github.io/hyderabad_ridehailing_report/)**
 *Replace with your latest Medium / Hashnode / Substack post*
 
 </div>
