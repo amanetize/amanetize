@@ -7,8 +7,7 @@
 <div align="center">
 
 ### 📖 Check out my latest article
-**[→ Hyderabad Urban Mobility - Data Report ←](https://amanetize.github.io/hyderabad_ridehailing_report/)**
-*Replace with your latest Medium / Hashnode / Substack post*
+**[Hyderabad Urban Mobility - Data Report](https://amanetize.github.io/hyderabad_ridehailing_report/)**
 
 </div>
 
